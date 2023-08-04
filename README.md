@@ -14,5 +14,5 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 📫 You can [view my resume](#) and contact me by emailing mailtomololuwa.olorunsola@gmail.com.
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardMololuwai&show_icons=true&include_all_commits=true&hide_border=true" alt="Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
 | ------------- | ------------- |
