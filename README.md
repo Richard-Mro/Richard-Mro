@@ -15,5 +15,4 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=richardMololuwq&show_icons=true&include_all_commits=true&hide_border=true" alt= Richard's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardMololuwa&langs_count=8&layout=compact&hide_border=true" alt="Richard's GitHub stats" /> |
 | ------------- | ------------- |
