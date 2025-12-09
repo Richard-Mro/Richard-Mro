@@ -34,9 +34,7 @@ I’m passionate about solving problems, improving user experience, and building
 - 📧 Email: **mololuwa.olorunsola@gmail.com**  
 - 🔗 Profile: **github.com/Richard-Mro**
 
----
-
-### 📊 GitHub Stats  
+--- 
 
 ### 📊 GitHub Stats  
 
