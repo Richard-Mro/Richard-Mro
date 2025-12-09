@@ -1,8 +1,8 @@
 <h2 align="center">Hi there, welcome 👋🏾</h2>
 
 <p align="center">
-I'm <strong>Mololuwa Richard Olorunsola</strong> — a focused and creative Software Developer who enjoys building practical, user-friendly applications.  
-I work with modern web technologies including <strong>Vue.js, React.js, TypeScript, JavaScript, Firebase, CSS, and HTML</strong>.  
+I Am <strong>Mololuwa Richard OLORUNSOLA</strong>, a focused and creative Software Developer who enjoys building practical, user-friendly applications.  
+I work with modern web technologies including <strong>Vue.js, React.js, TypeScript, JavaScript(ES6+), Firebase, CSS, and HTML</strong>.  
 I’m passionate about solving problems, improving user experience, and building real-world projects that make an impact.
 </p>
 
@@ -39,7 +39,8 @@ I’m passionate about solving problems, improving user experience, and building
 ### 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Richard-Mro&show_icons=true&theme=default" height="160"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Richard-Mro&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Richard-Mro&show_icons=true&rank_icon=github" height="160" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Richard-Mro" height="160" />
 </p>
+
