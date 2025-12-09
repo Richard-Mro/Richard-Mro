@@ -38,9 +38,11 @@ I’m passionate about solving problems, improving user experience, and building
 
 ### 📊 GitHub Stats  
 
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richard-Mro&show_icons=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Richard-Mro&show_icons=true" height="160" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Richard-Mro" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Richard-Mro" height="160" />
 </p>
 
